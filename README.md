@@ -1,0 +1,2 @@
+# zaracho
+Random text generator
